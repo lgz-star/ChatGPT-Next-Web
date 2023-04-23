@@ -5,7 +5,7 @@ const en: LocaleType = {
   WIP: "WIP...",
   Error: {
     Unauthorized:
-      "Unauthorized access, please enter access code in settings page.",
+      "当前访问未授权，请联系微信\`leoandkeen\`,备注\`chatGPT授权\`",
   },
   ChatItem: {
     ChatItemCount: (count: number) => `${count} messages`,
