@@ -4,8 +4,8 @@ const cn = {
   WIP: "该功能仍在开发中……",
   Error: {
     Unauthorized: 
-    当前访问未授权，请联系微信\`leoandkeen\`,备注\`chatGPT授权\`
-    ![wechat](/wechat.jpg)
+    `当前访问未授权，请联系微信\`leoandkeen\`,备注\`chatGPT授权\`
+    ![wechat](/wechat.jpg)`
     ,
   },
   ChatItem: {
